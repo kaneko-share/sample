@@ -5,6 +5,7 @@
 //  Created by 金子 昭一 on 2018/04/09.
 //  Copyright © 2018年 Share Inc. All rights reserved.
 //
+//  git 用
 
 import UIKit
 
